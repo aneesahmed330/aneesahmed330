@@ -1,11 +1,8 @@
 [![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--s0m_dN3D--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qpr8vgq3opnw3kv641ni.png)](https://aneesahmed330.io)
 
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,400;1,300&display=swap" rel="stylesheet">
 
 <h1 align="center">Hi 👋, I'm Anees Ahmed</h1>
-<p style="font-family:IBM Plex Mono; font-style:italic" align="center">Passionate Full Stack Developer from Pakistan, turning ideas into code. Part-time bug bounty hunter, boosting cybersecurity skills. 🚀🔒</p>
+<h5 align="center">Passionate Full Stack Developer from Pakistan, turning ideas into code. Part-time bug bounty hunter, boosting cybersecurity skills. 🚀🔒</h5>
 
 
 <img align="right" style="image-rendering: pixelated" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
