@@ -29,6 +29,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aneesahmed330&show_icons=true&locale=en&layout=compact" alt="aneesahmed330" /></p>
 
-<p>&nbsp;</p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aneesahmed330&" alt="aneesahmed330" /></p>
