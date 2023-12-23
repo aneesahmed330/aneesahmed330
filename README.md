@@ -1,14 +1,14 @@
-[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--s0m_dN3D--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qpr8vgq3opnw3kv641ni.png)](https://rishavchanda.io)
+[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--s0m_dN3D--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qpr8vgq3opnw3kv641ni.png)](https://aneesahmed330.io)
 <h1 align="center">Hi 👋, I'm Anees Ahmed</h1>
-<p align="center">Passionate Full Stack Developer from Pakistan, turning ideas into code. Part-time bug bounty hunter, boosting cybersecurity skills. 🚀🔒</p>
+<h5 style="font-family:monolisa" align="center">Passionate Full Stack Developer from Pakistan, turning ideas into code. Part-time bug bounty hunter, boosting cybersecurity skills. 🚀🔒</h5>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aneesahmed330&label=Profile%20views&color=0e75b6&style=flat" alt="aneesahmed330" /> </p>
+<img align="right" style="image-rendering: pixelated" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-<p align="left"> <a href="https://twitter.com/rm_vrf" target="blank"><img src="https://img.shields.io/twitter/follow/rm_vrf?logo=twitter&style=for-the-badge" alt="rm_vrf" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aneesahmed330&label=Profile%20views&color=0e75b6&style=flat" alt="aneesahmed330" /> <span style="margin-left:10px; position:relative; top:-5;">👀</span></p> 
+
+
+
 
 - 🌱 I’m currently learning **Next JS ,Crypto trading**
 
@@ -19,6 +19,7 @@
 - 📫 How to reach me **aneesahmed.engr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<p align="left"> <a href="https://twitter.com/rm_vrf" target="blank"><img src="https://img.shields.io/twitter/follow/rm_vrf?logo=twitter&style=for-the-badge" alt="rm_vrf" /></a> </p>
 <p align="left">
 <a href="https://twitter.com/rm_vrf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rm_vrf" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aneesahmed330" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aneesahmed330" height="30" width="40" /></a>
@@ -29,4 +30,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aneesahmed330&show_icons=true&locale=en&layout=compact" alt="aneesahmed330" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aneesahmed330&" alt="aneesahmed330" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aneesahmed330&" alt="aneesahmed330" style="height:165px"/></p>
